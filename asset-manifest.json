@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rolla-SmoothScroll/static/css/main.28749ca8.css",
-    "main.js": "/Rolla-SmoothScroll/static/js/main.7c2c38aa.js",
+    "main.js": "/Rolla-SmoothScroll/static/js/main.8e15c3a8.js",
     "static/js/787.966a6603.chunk.js": "/Rolla-SmoothScroll/static/js/787.966a6603.chunk.js",
     "static/media/video.mp4": "/Rolla-SmoothScroll/static/media/video.015387fa835ba1990ae9.mp4",
     "static/media/svg-5.svg": "/Rolla-SmoothScroll/static/media/svg-5.4e04340bf1381d25bfe3a5b02c4fbb1f.svg",
@@ -12,11 +12,11 @@
     "static/media/svg-2.svg": "/Rolla-SmoothScroll/static/media/svg-2.0ff9b699b9437bb6db8206fc53f6997d.svg",
     "index.html": "/Rolla-SmoothScroll/index.html",
     "main.28749ca8.css.map": "/Rolla-SmoothScroll/static/css/main.28749ca8.css.map",
-    "main.7c2c38aa.js.map": "/Rolla-SmoothScroll/static/js/main.7c2c38aa.js.map",
+    "main.8e15c3a8.js.map": "/Rolla-SmoothScroll/static/js/main.8e15c3a8.js.map",
     "787.966a6603.chunk.js.map": "/Rolla-SmoothScroll/static/js/787.966a6603.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28749ca8.css",
-    "static/js/main.7c2c38aa.js"
+    "static/js/main.8e15c3a8.js"
   ]
 }
