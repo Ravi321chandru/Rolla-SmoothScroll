@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rolla-SmoothScroll/static/css/main.28749ca8.css",
+    "main.js": "/Rolla-SmoothScroll/static/js/main.7c2c38aa.js",
+    "static/js/787.966a6603.chunk.js": "/Rolla-SmoothScroll/static/js/787.966a6603.chunk.js",
+    "static/media/video.mp4": "/Rolla-SmoothScroll/static/media/video.015387fa835ba1990ae9.mp4",
+    "static/media/svg-5.svg": "/Rolla-SmoothScroll/static/media/svg-5.4e04340bf1381d25bfe3a5b02c4fbb1f.svg",
+    "static/media/svg-1.svg": "/Rolla-SmoothScroll/static/media/svg-1.b1444d5cdb6d158e0cadb5774269d657.svg",
+    "static/media/svg-3.svg": "/Rolla-SmoothScroll/static/media/svg-3.c286acd67e8f085ecaa15d581e682f2c.svg",
+    "static/media/svg-4.svg": "/Rolla-SmoothScroll/static/media/svg-4.af6367031baee610b1c51fd8ebee695d.svg",
+    "static/media/svg-6.svg": "/Rolla-SmoothScroll/static/media/svg-6.179ca3ab667c32324fb88013336b1d04.svg",
+    "static/media/svg-2.svg": "/Rolla-SmoothScroll/static/media/svg-2.0ff9b699b9437bb6db8206fc53f6997d.svg",
+    "index.html": "/Rolla-SmoothScroll/index.html",
+    "main.28749ca8.css.map": "/Rolla-SmoothScroll/static/css/main.28749ca8.css.map",
+    "main.7c2c38aa.js.map": "/Rolla-SmoothScroll/static/js/main.7c2c38aa.js.map",
+    "787.966a6603.chunk.js.map": "/Rolla-SmoothScroll/static/js/787.966a6603.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28749ca8.css",
+    "static/js/main.7c2c38aa.js"
+  ]
+}
